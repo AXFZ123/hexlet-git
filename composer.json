@@ -1,0 +1,13 @@
+{
+    "name": "axfz123/hexlet-git",
+    "description": "My first git PHP files",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alexey Z.",
+            "email": "axfz@ya.ru"
+        }
+    ],
+    "require": {}
+}
