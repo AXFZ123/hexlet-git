@@ -9,5 +9,18 @@
             "email": "axfz@ya.ru"
         }
     ],
-    "require": {}
+    "require": {
+        "illuminate/collections": "^11.37"
+    },
+    "autoload": {
+		"files": [
+			"src/Runner.php"
+		]
+    },
+    "require-dev": {
+        "squizlabs/php_codesniffer": "^3.11"
+    },
+    "scripts": {
+	"phpcs": "phpcs"
+    }
 }
